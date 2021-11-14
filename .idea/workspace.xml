@@ -4,54 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce08ed53-b166-4adb-8eea-8e2634ec1498" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/DeepAR.framework/DeepAR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/DeepAR.framework/Headers/ARView.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/DeepAR.framework/Headers/CameraController.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/DeepAR.framework/Headers/DeepAR.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/DeepAR.framework/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/DeepAR.framework/Modules/module.modulemap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/DeepAR.framework/bodysegmentation256x160_rec.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/DeepAR.framework/emo.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/DeepAR.framework/hair_50.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/DeepAR.framework/models.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/Helmet_PBR_V1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/bleachbypass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/blizzard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/drawingmanga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/fatify" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/filmcolorperfection" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/fire" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/grumpycat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/heart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/koala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/mudMask" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/rain" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/realvhs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/sepia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/slash" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/sleepingmask" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/smallface" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/teddycigar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/tripleface" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/tv80" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Effects/twistedFace" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rwa_deep_ar.iml" beforeDir="false" />
+    <list default="true" id="ce08ed53-b166-4adb-8eea-8e2634ec1498" name="Default Changelist" comment="updated the ios sdk">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Effects/aviators" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Effects/aviators" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1636883975370</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated the ios sdk">
+      <created>1636888311704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636888311705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,5 +77,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="updated the ios sdk" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the ios sdk" />
   </component>
 </project>
